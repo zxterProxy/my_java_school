@@ -4,11 +4,6 @@
 import static javax.swing.JOptionPane.showMessageDialog;
 public class Demo {
     public static void main(String[] args) {
-        /*
-        * Здарова
-        *  
-        * */
-        System.out.println("Привет");
-        showMessageDialog(null,"Ariamis");
+    Test_1.Init();
     }
 }
